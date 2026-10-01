@@ -1,0 +1,15 @@
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/bin/Debug/net8.0/NejakaUloha
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/bin/Debug/net8.0/NejakaUloha.deps.json
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/bin/Debug/net8.0/NejakaUloha.runtimeconfig.json
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/bin/Debug/net8.0/NejakaUloha.dll
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/bin/Debug/net8.0/NejakaUloha.pdb
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/NejakaUloha.GeneratedMSBuildEditorConfig.editorconfig
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/NejakaUloha.AssemblyInfoInputs.cache
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/NejakaUloha.AssemblyInfo.cs
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/NejakaUloha.csproj.CoreCompileInputs.cache
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/NejakaUloha.sourcelink.json
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/NejakaUloha.dll
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/refint/NejakaUloha.dll
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/NejakaUloha.pdb
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/NejakaUloha.genruntimeconfig.cache
+/home/ondrejek/Desktop/tady_neco_je/ivt2027/GitPrgSem2_2627/NejakaUloha/NejakaUloha/obj/Debug/net8.0/ref/NejakaUloha.dll

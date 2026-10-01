@@ -23,7 +23,6 @@
             /* TODO: Dopište tělo funkce a otestujte ji (alespoň 3 testy) */
         }
 
-
         /* TODO: Proveďte alespoň 5 různých testů funkce Merge */
         /* Pozn. Testované funkce musí být public, aby byly vidět i v projektu s testy. Po řádném otestování je zrovna zde vhodné, udělat tuto funkci privátní (je to funkce pouze pomocná). */
         public static void Merge(int[] array, int left, int middle, int right)
