@@ -9,8 +9,8 @@ internal class Program
 
 
     bank1.Vlozit(67);
-    Console.WriteLine(bank2.Vybrat(1000000));
-    bank2.Vybrat(67);
+    Console.WriteLine(bank1.Vybrat(1000000));
+    bank1.Vybrat(67);
 
     Console.WriteLine(bank1);
     BankovniUcet.ZobrazPocetAktivnichUctu();
